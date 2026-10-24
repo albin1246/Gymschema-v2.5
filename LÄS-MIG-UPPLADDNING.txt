@@ -1,0 +1,4 @@
+GymSchema v1.4 – granskade övningsguider.
+Packa upp ZIP-filen och ladda upp ALLA filer i huvudmappen till GitHub (ersätt befintliga).
+Bänkpressbildernas start/slut är rättade. Otydliga bilder för triceps pushdown och sittande kabelrodd används inte. Benpress eller knäböj visar bara benpressbilder och har tydlig text för båda valen.
+Träningshistoriken ligger kvar lokalt i webbläsaren. Exportera gärna backup innan uppdatering.
